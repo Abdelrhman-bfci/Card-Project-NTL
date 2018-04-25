@@ -1,0 +1,23 @@
+.elephant_card {
+    width:300px;
+    border: 1px solid #ddd;
+    padding: 14px;
+    box-shadow: 3px 3px 4px 1px #868282;
+}
+.elephant_card .animal_information .elephant_fact{
+    
+    font-style: italic;
+}
+.elephant_card .animal_information{
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-top: 15px
+}
+.elephant_card .animal_information ul{
+    list-style: none;
+    padding: 0;
+}
+.elephant_card .animal_information ul li span{
+    
+    font-weight: bold;
+}
